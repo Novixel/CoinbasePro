@@ -1,7 +1,4 @@
-# Novixel's Read Me File
-# Version 0.1
-# README.MD
-# May 14, 2021
+# Novixel's Read Me
 
 Thanks For Choosing Novixel For Your Development Soultion!
 
