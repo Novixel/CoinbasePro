@@ -72,12 +72,14 @@ Running The Program:
     Step 5: Follow Novixel On Twitter @OfficialNovixel
 
 Extra Info:
+
     Yes This Is Allowed: https://www.investopedia.com/articles/investing/091615/world-high-frequency-algorithmic-trading.asp
     Other Coinbase Pro Info: https://help.coinbase.com/en/pro
     Coinbase Rules & Fees: https://help.coinbase.com/en/pro/trading-and-funding#trading-rules-and-fees
     Start Learning Python: https://wiki.python.org/moin/BeginnersGuide
 
 DISCLAIMER:
+
     *ONLY FOR USE WITH THE COINBASE PRO EXCHANGE.*
     *These Applications Make Trades Based On Your Specified Profit Ranges.*
     *This Means That All Profits and Losses Are Largely Based on your Specifications.*
