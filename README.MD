@@ -9,7 +9,8 @@ Introduction:
 
         This Application Will Only Make Trades Based On Your Specified Profit Ranges.
         For all intents and purposes this trading bot is designed to trade crypto currency pairs on the Coinbase Pro Exchange.
-        It will use your Coinbase Pro Portfolio API to communicate directly with Coinbase API Servers and make trades based on your specifications.
+        It will use your Coinbase Pro Portfolio API to communicate directly with Coinbase API Servers 
+        and only make trades based on your specifications.
         The First Time You Run The Program It Will Ask You To Enter A Coinbase Pro API.
             *Please Have These Ready Before You Try To Test Your Application*
 
