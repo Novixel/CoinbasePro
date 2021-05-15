@@ -6,6 +6,7 @@
 Thanks For Choosing Novixel For Your Development Soultion!
 
 Introduction:
+
         This Application Will Only Make Trades Based On Your Specified Profit Ranges.
         For all intents and purposes this trading bot is designed to trade crypto currency pairs on the Coinbase Pro Exchange.
         It will use your Coinbase Pro Portfolio API to communicate directly with Coinbase API Servers and make trades based on your specifications.
