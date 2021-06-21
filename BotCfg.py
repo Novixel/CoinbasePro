@@ -1,5 +1,5 @@
 # Novixel's Bot File Setup
-# Version 0.1
+# v0.01
 # BotCfg.py
 # May 14, 2021
 import os

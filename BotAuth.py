@@ -1,5 +1,5 @@
 # Novixel's Bot Authenticated Connection
-# Version 0.1
+# v0.01
 # BotAuth.py
 # May 14, 2021
 import BotCfg as cfg

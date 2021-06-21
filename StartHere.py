@@ -1,5 +1,5 @@
 # Welcome To Novixel's Crypto Trading Application!
-# Version 0.0
+# v0.01
 # StartHere.py
 # May 14, 2021
 import BotAuth

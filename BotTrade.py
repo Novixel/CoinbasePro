@@ -1,5 +1,5 @@
 # Novixel's Bot Trading Class
-# Version 0.1
+# v0.01
 # Trading.py
 # May 14, 2021
 from datetime import datetime
